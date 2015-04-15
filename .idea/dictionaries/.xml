@@ -2,6 +2,8 @@
   <dictionary name="Василий">
     <words>
       <w>matrixserver</w>
+      <w>postgre</w>
+      <w>postgresql</w>
     </words>
   </dictionary>
 </component>
