@@ -1,4 +1,4 @@
-package org.pavlov.matrixserver;
+package org.pavlov.matrixserver.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
