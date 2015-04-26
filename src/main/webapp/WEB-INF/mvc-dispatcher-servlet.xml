@@ -15,7 +15,7 @@
 
 
     <import resource="spring-conf/mvc-thymeleaf.xml"/>
-    <import resource="spring-conf/mvc-jdbc.xml"/>
+    <!--<import resource="spring-conf/mvc-jdbc.xml"/>-->
 
-
+    <import resource="spring-conf/mvc-jpa.xml"/>
 </beans>
